@@ -1,0 +1,51 @@
+{
+  "result_root": "./multi_dataset_results_fixed_labels",
+  "seeds": [42],
+  "datasets": [
+    {
+      "dataset_name": "asl_dataset",
+      "data_dir": "./data/asl_dataset/processed_landmarks",
+      "image_test_dir": "./data/asl_dataset/final_holdout",
+      "result_dir": "",
+      "model_dir": "",
+      "min_samples_per_class": 20,
+      "filter_zero_rows": true
+    },
+    {
+      "dataset_name": "indian_sign_language",
+      "data_dir": "./data/indian_sign_language/processed_landmarks",
+      "image_test_dir": "./data/indian_sign_language/final_holdout",
+      "result_dir": "",
+      "model_dir": "",
+      "min_samples_per_class": 20,
+      "filter_zero_rows": true
+    },
+    {
+      "dataset_name": "nus_hand_posture",
+      "data_dir": "./data/nus_hand_posture/processed_landmarks",
+      "image_test_dir": "./data/nus_hand_posture/final_holdout",
+      "result_dir": "",
+      "model_dir": "",
+      "min_samples_per_class": 20,
+      "filter_zero_rows": true
+    },
+    {
+      "dataset_name": "asl_large_dataset",
+      "data_dir": "./data/asl_large_dataset/processed_landmarks",
+      "image_test_dir": "./data/asl_large_dataset/final_holdout",
+      "result_dir": "",
+      "model_dir": "",
+      "min_samples_per_class": 20,
+      "filter_zero_rows": true
+    }
+  ],
+  "run": {
+    "baseline_comparison": true,
+    "ablation": true,
+    "stability": false,
+    "landmark_robustness": false,
+    "image_robustness": false,
+    "final_holdout": true,
+    "final_holdout_all_seeds": false
+  }
+}

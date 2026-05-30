@@ -1,0 +1,2 @@
+device: jetson_xavier_nx
+precision: [fp32, fp16]

@@ -1,0 +1,6 @@
+﻿dataset,seed,train_count,val_count,test_count,total_count,num_classes,overlap_check_passed
+asl_large_dataset,42,44571,6367,12735,63673,28,True
+asl_large_dataset,2024,44571,6367,12735,63673,28,True
+asl_large_dataset,2025,44571,6367,12735,63673,28,True
+asl_large_dataset,3407,44571,6367,12735,63673,28,True
+asl_large_dataset,1234,44571,6367,12735,63673,28,True

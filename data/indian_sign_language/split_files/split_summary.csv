@@ -1,0 +1,6 @@
+﻿dataset,seed,train_count,val_count,test_count,total_count,num_classes,overlap_check_passed
+indian_sign_language,42,5933,848,1696,8477,33,True
+indian_sign_language,2024,5933,848,1696,8477,33,True
+indian_sign_language,2025,5933,848,1696,8477,33,True
+indian_sign_language,3407,5933,848,1696,8477,33,True
+indian_sign_language,1234,5933,848,1696,8477,33,True

@@ -1,0 +1,3 @@
+A short GIF demonstration will be added to the repository README.
+No GIF file is currently included in this repository snapshot.
+If a recorded demo is archived later, place the GitHub Release or Zenodo link here.

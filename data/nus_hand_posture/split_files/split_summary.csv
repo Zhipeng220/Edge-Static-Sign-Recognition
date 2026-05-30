@@ -1,0 +1,6 @@
+﻿dataset,seed,train_count,val_count,test_count,total_count,num_classes,overlap_check_passed
+nus_hand_posture,42,154,22,44,220,10,True
+nus_hand_posture,2024,154,22,44,220,10,True
+nus_hand_posture,2025,154,22,44,220,10,True
+nus_hand_posture,3407,154,22,44,220,10,True
+nus_hand_posture,1234,154,22,44,220,10,True
