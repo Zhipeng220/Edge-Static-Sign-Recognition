@@ -1,0 +1,5 @@
+﻿dataset,metadata_rows,status_no_hand_count,status_no_hand_percentage,status_success_count,status_success_percentage,num_canonical_classes_in_metadata,status_no_hand_detected_count,status_no_hand_detected_percentage
+asl_dataset,2479,882.0,0.3557886244453409,1597,0.6442113755546591,36,,
+indian_sign_language,10719,2216.0,0.2067357029573654,8503,0.7932642970426346,33,,
+nus_hand_posture,230,,,230,1.0,10,,
+asl_large_dataset,87000,,,63676,0.7319080459770115,29,23324.0,0.2680919540229885
