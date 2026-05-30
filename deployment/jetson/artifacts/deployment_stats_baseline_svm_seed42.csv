@@ -1,0 +1,2 @@
+﻿dataset,variant,seed,model_file_size_mb,pth_model_size_mb,onnx_model_size_mb,tensorrt_engine_size_mb,macs,flops_approx,thop_params,flops_status,onnx_export_status,onnx_parity_status,onnx_max_abs_diff,onnx_argmax_match,tensorrt_version,trtexec_available,tensorrt_conversion_status,tensorrt_parity_status
+nus_hand_posture,baseline_svm,42,0.059502601623535156,,,,,,,not_applicable_svm,not_applicable_svm,not_applicable_svm,,,not_available: ModuleNotFoundError: No module named 'tensorrt',False,not_applicable_svm,not_applicable_svm

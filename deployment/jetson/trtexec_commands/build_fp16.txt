@@ -1,0 +1,1 @@
+trtexec --onnx=models/full_model_single_hand_classifier.onnx --saveEngine=models/full_model_seed42_fp16.engine --explicitBatch --fp16
