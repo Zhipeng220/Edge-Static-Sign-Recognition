@@ -1,0 +1,18 @@
+name: edge-static-sign-recognition
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pytorch
+  - pip
+  - pip:
+      - imbalanced-learn
+      - opencv-python
+      - mediapipe
+      - joblib

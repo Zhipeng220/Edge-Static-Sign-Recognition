@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Edge-Static-Sign-Recognition"
+message: "If you use this repository, please cite it."
+type: software
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+version: "1.0.0"
+date-released: "TODO"
+repository-code: "https://github.com/TODO/Edge-Static-Sign-Recognition"
+doi: "TODO"
